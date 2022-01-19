@@ -1,0 +1,52 @@
+import:
+  - ~/.config/alacritty/tokyonight.yml
+
+env:
+  TERM: xterm-256color
+
+window:
+  decorations: None
+  padding:
+   x: 20
+   y: 20
+
+font:
+  normal:
+    family: JetBrains Mono
+    style: Bold
+
+  bold:
+    family: JetBrains Mono
+    style: Bold
+
+  italic:
+    family: JetBrains Mono
+    style: Bold Italic
+
+  bold_italic:
+    family: JetBrains Mono
+    style: Bold Italic
+
+  size: 13.0
+
+  offset:
+   x: -2
+   y: 0
+
+draw_bold_text_with_bright_colors: true
+
+cursor:
+  style:
+    #   - ▇ Block
+    #   - _ Underline
+    #   - | Beam
+    shape: Beam
+
+    #   - Never: Prevent the cursor from ever blinking
+    #   - Off: Disable blinking by default
+    #   - On: Enable blinking by default
+    #   - Always: Force the cursor to always blink
+    blinking: on
+
+  # from `0.0` to `1.0`.
+  thickness: 0.25
