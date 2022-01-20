@@ -41,5 +41,21 @@
   * Tokyo Night 
   * Material Icon Theme
 
+## Keyboard Shortcut
+* alacritty -> Super + Return
+* web browser -> Super + B
+* Move to workspace on left -> Ctrl + Alt + Left
+* Move to workspace on right -> Ctrl + Alt + Right
+* Move window one worspace to the left -> Shift + Ctrl + Left
+* Move window one worspace to the right -> Shift + Ctrl + Right
+* Close window -> Super + Q
+* Hide window -> Super + Z
+* Move window -> Super + M
+* Resize window -> Super + R
+
+
+
+
+
  
 
